@@ -1,0 +1,33 @@
+
+sosadd.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+o_yellow (1)
+  rotate: false
+  xy: 1, 565
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+o_yellow_circle (2)
+  rotate: false
+  xy: 1, 283
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+s_yellow (1)
+  rotate: false
+  xy: 283, 565
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+s_yellow_circle (1)
+  rotate: false
+  xy: 1, 1
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
